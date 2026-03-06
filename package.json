@@ -20,6 +20,7 @@
   "homepage": "https://github.com/obaidullah845/Bonnemaman-Website-TailwindCSS#readme",
   "dependencies": {
     "@tailwindcss/cli": "^4.2.0",
+    "tailwind-scrollbar-hide": "^4.0.0",
     "tailwindcss": "^4.2.0"
   }
 }

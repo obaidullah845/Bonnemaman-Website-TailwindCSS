@@ -1,1 +1,17 @@
+@font-face {
+    font-family: BonneMaman;
+    src: url(./assets/fonts/BonneMamanOffice.ttf);
+}
+@font-face {
+    font-family: lora;
+    src: url(./assets/fonts/Lora-VariableFont_wght.ttf);
+}
+
 @import "tailwindcss";
+
+@theme{
+    --font-BonneMaman: BonneMaman, "sans-serif";
+}
+@theme{
+    --font-lora: lora, "sans-serif", "times-new-roman";
+}
